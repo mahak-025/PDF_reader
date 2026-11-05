@@ -4,7 +4,8 @@ A Streamlit app that lets you upload a PDF and ask questions using Retrieval Aug
 
 ## Demo
 
-![App Screenshot](screenshots/pdf-reader1.png)(screenshots/pdf-reader2.png)
+![App Screenshot](screenshots/pdf-reader1.png)
+![App Screenshot](screenshots/pdf-reader2.png)
 
 ## Features
 - Upload and process PDF files
